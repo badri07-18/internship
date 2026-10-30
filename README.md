@@ -1,4 +1,4 @@
-# Internship Project Files - Badri S U (Thiranex Web Development Internship)
+# Internship Project Files (Thiranex Web Development Internship)
 
 | Folder | Report figure | What it is |
 |---|---|---|
